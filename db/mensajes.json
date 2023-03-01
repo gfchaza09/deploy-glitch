@@ -1,0 +1,67 @@
+[
+  {
+    "author": {
+      "id": "admin@mail.com",
+      "nombre": "ADMIN",
+      "apellido": "_",
+      "edad": "0",
+      "alias": "admin",
+      "avatar": "https://cdn4.iconfinder.com/data/icons/office-thick-outline/36/office-14-512.png"
+    },
+    "text": "Bienvenido al canal de chat",
+    "fyh": "24/11/2022 19:57:22",
+    "id": 1
+  },
+  {
+    "author": {
+      "id": "gfchazarreta@mail.com",
+      "nombre": "Gabriel",
+      "apellido": "Chazarreta",
+      "edad": "28",
+      "alias": "gfchaza",
+      "avatar": "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/40-School_boy-512.png"
+    },
+    "text": "Probando el canal de chat",
+    "fyh": "24/11/2022 19:57:22",
+    "id": 2
+  },
+  {
+    "author": {
+      "id": "pepegrillo@hotmail.com",
+      "nombre": "Pepe",
+      "apellido": "Grillo",
+      "edad": "20",
+      "alias": "PepeGrillo",
+      "avatar": "https://i.pravatar.cc/150?u=midu"
+    },
+    "text": "Hola",
+    "fyh": "24/11/2022 19:57:22",
+    "id": 3
+  },
+  {
+    "author": {
+      "id": "hercules33@hotmail.com",
+      "nombre": "Hercules",
+      "apellido": "Zeuz",
+      "edad": "33",
+      "alias": "ZeuzOlimpo",
+      "avatar": "https://i.pravatar.cc/150?u=midu"
+    },
+    "text": "Como Estas?",
+    "fyh": "24/11/2022 19:57:22",
+    "id": 4
+  },
+  {
+    "author": {
+      "id": "prueba@hotmail.com",
+      "nombre": "Pepe",
+      "apellido": "Grillo",
+      "edad": "20",
+      "alias": "PepeGrillo",
+      "avatar": "https://i.pravatar.cc/150?u=midu"
+    },
+    "text": "Todo bien, vos?",
+    "fyh": "24/11/2022 19:57:22",
+    "id": 5
+  }
+]
