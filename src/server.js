@@ -132,4 +132,4 @@ const createServer = () => {
   };
 };
 
-export default { createServer };
+export { createServer };
